@@ -174,21 +174,6 @@ const umesh: Developer = {
 
 </div>
 
-<br/>
-
----
-
-## 🧩 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/J9GMYU55rX/">
-  <img src="https://leetcard.jacoblin.cool/J9GMYU55rX?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=10"/>
-</a>
-
-</div>
-
-<br/>
 
 ---
 
