@@ -158,22 +158,6 @@ const umesh: Developer = {
 
 ---
 
-## 🎯 2026 Goals
-
-<div align="center">
-
-```
-✅  Master MERN Stack               ████████████████████  100%
-✅  Build AI-Powered Products        ████████████████████  100%  
-✅  Deploy Full Stack Applications   ████████████████████  100%
-🔄  500+ DSA Problems               ████████░░░░░░░░░░░░   40%
-🔄  AWS Cloud Certification         ████████░░░░░░░░░░░░   40%
-🔄  Secure Top Internship           ██████░░░░░░░░░░░░░░   30%
-🔄  Launch Production SaaS          ██████████░░░░░░░░░░   50%
-```
-
-</div>
-
 
 ---
 
