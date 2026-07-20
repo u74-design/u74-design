@@ -1,12 +1,20 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0a0a0a,30:0d1117,60:1a1a2e,100:16213e&text=Umesh%20Jhurke&fontSize=65&fontColor=58a6ff&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20SaaS%20Creator&descSize=20&descAlignY=62&descColor=8b949e&stroke=58a6ff&strokeWidth=1.5"/>
+## 💫 About Me
 
-<!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=%F0%9F%9A%80+Building+AI-Powered+Products+that+Matter;%F0%9F%94%A5+MERN+Stack+%7C+Next.js+%7C+AWS+%7C+AI+APIs;%F0%9F%8E%AF+SaaS+%7C+Scalable+Systems+%7C+Clean+Code;%F0%9F%A7%A0+B.Tech+CSE+%28AI+%26+ML%29+%E2%80%94+CGPA+8.60;%E2%9C%A8+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+I'm **Umesh Jhurke**, a final-year B.Tech Computer Engineering (AI & ML) student from India, passionate about building scalable backend systems, full-stack web applications, and data-driven solutions.
 
-<br/>
+💻 I specialize in **JavaScript** and have hands-on experience with **Node.js, Express.js, React.js, MongoDB, SQL, REST APIs, Git, and Power BI**. I also solve **Data Structures & Algorithms** problems in **C++** to strengthen my problem-solving skills.
+
+📊 Along with software development, I'm interested in **Business Intelligence and Data Analytics**, where I enjoy transforming raw data into meaningful insights using **Power BI, SQL, Python, Pandas, NumPy, and Matplotlib** to support data-driven decision-making.
+
+🚀 I enjoy building real-world projects such as **API Gateways, AI-powered applications, admin dashboards, Chrome extensions, full-stack MERN applications, and data analytics dashboards**, with a strong focus on performance, scalability, and user experience.
+
+🌱 I'm continuously improving my understanding of **Node.js internals, system design, databases, authentication, Redis, scalable backend architectures, and modern BI & analytics practices** while exploring AI integrations.
+
+🎯 **Goal:** To become a skilled **Backend / Full-Stack JavaScript Engineer or BI Analyst**, building impactful software and data-driven solutions that solve real-world business problems while continuously learning and growing.
+
 
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/umeshjhurke/" target="_blank">
