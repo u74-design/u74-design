@@ -13,7 +13,7 @@ I'm **Umesh Jhurke**, a final-year B.Tech Computer Engineering (AI & ML) student
 
 🌱 I'm continuously improving my understanding of **Node.js internals, system design, databases, authentication, Redis, scalable backend architectures, and modern BI & analytics practices** while exploring AI integrations.
 
-🎯 **Goal:** To become a skilled **Backend / Full-Stack JavaScript Engineer or BI Analyst**, building impactful software and data-driven solutions that solve real-world business problems while continuously learning and growing.
+🎯 **Goal:** To become a skilled **Backend / Full-Stack JavaScript Engineer AND BI Analyst**, building impactful software and data-driven solutions that solve real-world business problems while continuously learning and growing.
 
 
 <!-- SOCIAL BADGES -->
