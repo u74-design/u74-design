@@ -44,7 +44,7 @@ I'm **Umesh Jhurke**, a final-year B.Tech Computer Engineering (AI & ML) student
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;Who Am I?
 
 ```typescript
-const umesh: Developer = {
+const Umesh: Developer = {
   name        : "Umesh Jhurke",
   education   : "B.Tech CSE — AI & ML | CGPA: 8.60",
   college     : "G.H. Raisoni College of Engineering & Management",
@@ -58,11 +58,8 @@ const umesh: Developer = {
     ai        : ["OpenAI API", "Gemini API", "LangChain"],
   },
 
-  currentlyBuilding : ["Scriptly AI", "Kisan Sahay", "OPERA SaaS"],
-  currentlyLearning : ["System Design", "Advanced DSA", "AWS Certifications"],
+  currentlyLearning : ["System Design", "Advanced JavaScript && Node.js", "AWS Certifications"],
   lookingFor        : "Internship Opportunities & Open Source Collaborations",
-
-  funFact           : "I debug with console.log and I'm not ashamed 🙃",
 };
 ```
 
