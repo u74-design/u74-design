@@ -108,7 +108,7 @@ const umesh: Developer = {
 |:---:|:---|:---|:---|:---:|
 | 🎬 | **[Scriptly AI](https://github.com/u74-design)** | AI-powered YouTube transcription, summarization & content repurposing platform | React · Node · OpenAI · MongoDB | 🔨 Active |
 | 🌾 | **[🌾 KrishiMitra – Smart Farmer Support Platform](https://github.com/u74-design)** | A multilingual platform designed to help farmers access government schemes, eligibility information, and voice-assisted guidance. | Next.js · Gemini AI · Express | 🔨 Active |
-| 🏢 | **[OPERA SaaS](https://github.com/u74-design)** | Multi-tenant company management system with role-based access, teams & analytics | MERN · AWS · Redux | 🔨 Scaling |
+| 🏢 | **[API-Gateway and analysis](https://github.com/u74-design)** | Developed a production-style API Gateway platform enabling users to register external APIs, generate secure proxy endpoints and API keys, and manage API traffic through a centralized dashboard. | NODE . React . Redis | 🔨 Scaling |
 
 </div>
 
