@@ -1,204 +1,82 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-## 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20👋&fontSize=45&fontColor=fff&animation=fadeIn" width="100%"/>
 
-I'm **Umesh Jhurke**, a final-year B.Tech Computer Engineering (AI & ML) student from India, passionate about building scalable backend systems, full-stack web applications, and data-driven solutions.
+<h1>Hi 👋, I'm Dipmala</h1>
+<h3>[Your tagline — e.g. "Full-Stack Developer | Open Source Enthusiast"]</h3>
 
-💻 I specialize in **JavaScript** and have hands-on experience with **Node.js, Express.js, React.js, MongoDB, SQL, REST APIs, Git, and Power BI**. I also solve **Data Structures & Algorithms** problems in **C++** to strengthen my problem-solving skills.
-
-📊 Along with software development, I'm interested in **Business Intelligence and Data Analytics**, where I enjoy transforming raw data into meaningful insights using **Power BI, SQL, Python, Pandas, NumPy, and Matplotlib** to support data-driven decision-making.
-
-🚀 I enjoy building real-world projects such as **API Gateways, AI-powered applications, admin dashboards, Chrome extensions, full-stack MERN applications, and data analytics dashboards**, with a strong focus on performance, scalability, and user experience.
-
-🌱 I'm continuously improving my understanding of **Node.js internals, system design, databases, authentication, Redis, scalable backend architectures, and modern BI & analytics practices** while exploring AI integrations.
-
-🎯 **Goal:** To become a skilled **Backend / Full-Stack JavaScript Engineer AND BI Analyst**, building impactful software and data-driven solutions that solve real-world business problems while continuously learning and growing.
-
-
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/umeshjhurke/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:umeshjhurke123@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/u74-design" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/J9GMYU55rX/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=u74-design&label=Profile+Views&color=58a6ff&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/u74-design?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=dipmala-dev&label=Profile%20Views&color=6a5acd&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/dipmala-dev?label=Followers&style=social" alt="followers" />
 
 </div>
 
-<br/>
+---
+
+### 🚀 About Me
+- 🔭 I'm currently working on **[Project Name]**
+- 🌱 I'm currently learning **[Technology / Skill]**
+- 👯 I'm looking to collaborate on **[Type of Projects]**
+- 💬 Ask me about **[Your Expertise]**
+- 📫 Reach me at: **[your.email@example.com]**
+- ⚡ Fun fact: **[Something fun about you]**
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;Who Am I?
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,figma" alt="tech stack icons"/>
+</p>
 
-```typescript
-const Umesh: Developer = {
-  name        : "Umesh Jhurke",
-  education   : "B.Tech CSE — AI & ML | CGPA: 8.60",
-  college     : "G.H. Raisoni College of Engineering & Management",
-  role        : "Full Stack Developer & AI Application Builder",
-
-  stack: {
-    frontend  : ["React", "Next.js", "Redux", "Tailwind CSS"],
-    backend   : ["Node.js", "Express.js", "REST APIs"],
-    database  : ["MongoDB", "MySQL"],
-    cloud     : ["AWS EC2", "AWS S3"],
-    ai        : ["OpenAI API", "Gemini API", "LangChain"],
-  },
-
-  currentlyLearning : ["System Design", "Advanced JavaScript && Node.js", "AWS Certifications"],
-  lookingFor        : "Internship Opportunities & Open Source Collaborations",
-};
-```
-
-<br/>
+<sub>Edit the `i=` list at <a href="https://skillicons.dev">skillicons.dev</a> to match your real stack.</sub>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dipmala-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipmala-dev&layout=compact&theme=radical&hide_border=true" alt="top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipmala-dev&theme=radical&hide_border=true" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipmala-dev&theme=react-dark&hide_border=true" width="90%" alt="contribution graph"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dipmala-dev&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
+</p>
+
+---
+
+### 💻 Featured Projects
+<p align="center">
+  <a href="https://github.com/dipmala-dev/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dipmala-dev&repo=REPO_NAME_1&theme=radical&hide_border=true" alt="project 1"/>
+  </a>
+  <a href="https://github.com/dipmala-dev/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dipmala-dev&repo=REPO_NAME_2&theme=radical&hide_border=true" alt="project 2"/>
+  </a>
+</p>
+
+<sub>Replace `REPO_NAME_1` / `REPO_NAME_2` with your actual repo names. You can add up to 6 pinned cards.</sub>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 <div align="center">
-
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Database
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🤖 AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-</div>
-
-<br/>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| &nbsp; | Project | Description | Stack | Status |
-|:---:|:---|:---|:---|:---:|
-| 🎬 | **[Scriptly AI](https://github.com/u74-design)** | AI-powered YouTube transcription, summarization & content repurposing platform | React · Node · OpenAI · MongoDB | 🔨 Active |
-| 🌾 | **[ KrishiMitra – Smart Farmer Support Platform](https://github.com/u74-design)** | A multilingual platform designed to help farmers access government schemes, eligibility information, and voice-assisted guidance. | Next.js · Gemini AI · Express | 🔨 Active |
-| 🏢 | **[API-Gateway and Analysis](https://github.com/u74-design)** | Developed a production-style API Gateway platform enabling users to register external APIs, generate secure proxy endpoints and API keys, and manage API traffic through a centralized dashboard. | Node.js . React . Redis | 🔨 Scaling |
-
-</div>
-
-<br/>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=u74-design&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=u74-design&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=58a6ff&currStreakNum=ffffff" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u74-design&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=u74-design&theme=github_dark&utcOffset=5.5" />
-
-</div>
-
-<br/>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=u74-design&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true&custom_title=Umesh's%20Contribution%20Graph"/>
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/u74-design/u74-design/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/u74-design/u74-design/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/u74-design/u74-design/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
-<br/>
-
----
-
-
----
-
-## 💬 Dev Philosophy
-
-<div align="center">
-
-> *"Don't just write code that works — write code that lasts."*
-
-> *"Every great product started as a side project someone was too excited to stop building."*
-
-</div>
-
-<br/>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/umeshjhurke/">
-  <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:umeshjhurke123@gmail.com">
-  <img src="https://img.shields.io/badge/Drop%20me%20an%20email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+%F0%9F%91%8B;Open+to+collabs+%26+internships+%F0%9F%9A%80;Let%27s+build+something+great+together+%F0%9F%94%A5"/>
-
-<br/>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:16213e,50:1a1a2e,100:0d1117&section=footer&reversal=false"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
